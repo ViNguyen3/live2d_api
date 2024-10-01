@@ -1,0 +1,25 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "PinkGirl.moc3",
+		"Textures": [
+			"PinkGirl.8192/texture_00.png",
+			"PinkGirl.8192/texture_01.png",
+			"PinkGirl.8192/texture_02.png"
+		],
+		"Physics": "PinkGirl.physics3.json",
+		"DisplayInfo": "PinkGirl.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}
